@@ -62,31 +62,39 @@ body {
 .Lab {
   position: absolute;
   top: 48%;
-  left: 74%;
-  font-size: 140%;
+  left: 72%;
+  font-size: 145%;
   color: #6eba70;
   background-color: #6e6d6d;
   text-decoration: none;
 }
 .Contacts {
   position: absolute;
-  top: 105%;
-  left: -285%;
+  top: 115%;
+  left: -256%;
   font-size: 150%;
   color: #6eba70;
   width: 100%;
   height: auto;
-  background-color: #6e6d6d;
-  text-decoration: border;
+  
+  
 }
-.Contacts {
+.info {
   position: absolute;
-  top: 128%;
-  left: %;
-  font-size: 200%;
-  color: #6eba70;
+  top: -835%;
+  left: 1%;
+  font-size: 80%;
   width: 100%;
-  height: auto;
+  color: #6eba70;
   background-color: #6e6d6d;
-  text-decoration: border;
+  text-decoration: none;
+}
+.Here {
+  position: absolute;
+  top: -200%;
+  left: 1%;
+  font-size: 95%;
+  color: #6eba70;
+  background-color: #6e6d6d;
+  text-decoration: none;
 }
